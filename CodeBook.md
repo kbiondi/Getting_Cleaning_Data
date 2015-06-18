@@ -11,6 +11,10 @@ The raw data was provided in eight text files:
 * Y_test.txt contained a numeric list of test activities
 * activity_labels.txt is a character list of test activities
 
+I combined the above text files into one organized data set. The activitiy_labels.txt character descriptions of activities replaced the numeric activity codes in Y_train.txt and Y_test.txt.
+
+Only data with variable names containing "mean" and "std" were selected for the final data set.
+
 A description of the variables follows:
 
 Subject - A number representing the person performing the activity
