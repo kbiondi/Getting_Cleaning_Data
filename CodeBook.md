@@ -6,7 +6,7 @@ Subject - A number representing the person performing the activity
 
 Activity - A character value for physical the activities WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING
 
-The following list of variables are the data readings.  X, Y, and Z stand for 3-axial signals in the X, Y and Z directions. Prefix "t" stands for time. Prefix "f" stands for frequency domain signals. "Mean" is the mean value. "std" is the standard deviation.
+The following list of variables are the data readings.  X, Y, and Z stand for 3-axial signals in the X, Y and Z directions. Prefix "t" stands for time. Prefix "f" stands for frequency domain signals. "Acc" stands for accelerometer and "Gyro" stands for gyroscope. "Mean" is the mean value. "std" is the standard deviation.
 
 tBodyAcc.mean.X
 
