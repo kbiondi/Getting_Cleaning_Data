@@ -1,5 +1,3 @@
-a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md
-
 The raw data was provided in eight text files:
 
 * features.txt contained the variable names
