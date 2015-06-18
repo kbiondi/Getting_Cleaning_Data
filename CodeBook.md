@@ -13,7 +13,7 @@ I combined the above text files into one organized data set. The activitiy_label
 
 Only data with variable names containing "mean" and "std" were selected for the final data set.
 
-A description of the variables follows:
+**A description of the variables follows:**
 
 Subject - A number representing the person performing the activity
 
