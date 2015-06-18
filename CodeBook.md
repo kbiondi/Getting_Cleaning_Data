@@ -1,12 +1,23 @@
 a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md
 
+The raw data was provided in eight text files:
+
+* features.txt contained the variable names
+* X_train.txt contained the training data
+* X_test.txt contained the test data
+* subject_train.txt contained the list of training subjects
+* subject_test.txt contained the list of test subjects
+* Y_train.txt contained a numeric list of training activities
+* Y_test.txt contained a numeric list of test activities
+* activity_labels.txt is a character list of test activities
+
 A description of the variables follows:
 
 Subject - A number representing the person performing the activity
 
 Activity - A character value for physical the activities WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING
 
-The following list of variables are the data readings.  X, Y, and Z stand for 3-axial signals in the X, Y and Z directions. Prefix "t" stands for time. Prefix "f" stands for frequency domain signals. "Acc" stands for accelerometer and "Gyro" stands for gyroscope. "Mean" is the mean value. "std" is the standard deviation.
+The following list of variables are the numeric data readings.  X, Y, and Z stand for 3-axial signals in the X, Y and Z directions. Prefix "t" stands for time. Prefix "f" stands for frequency domain signals. "Acc" stands for accelerometer and "Gyro" stands for gyroscope. "Mean" is the mean value. "std" is the standard deviation.
 
 tBodyAcc.mean.X
 
